@@ -1,4 +1,4 @@
-<h1>Complete Python Flask: WebDev Basics to Machine Learning Deployment</h1>
+<h1>Complete Python Flask: Web Development Basics to Machine Learning Deployment</h1>
 
 <h2>Course Overview</h2>
 <p>
