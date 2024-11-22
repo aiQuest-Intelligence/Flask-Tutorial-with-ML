@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Python Flask: WebDev Basics to Machine Learning Deployment</title>
+    <title>Python Flask: WebDev Basics to Machine Learning Deployment.</title>
 </head>
 <body>
     
