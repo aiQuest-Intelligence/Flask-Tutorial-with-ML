@@ -3,9 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Python Flask: WebDev Basics to Machine Learning Deployment.</title>
+    <title>Python Flask: WebDev Basics to Machine Learning Deployment</title>
 </head>
 <body>
+    <h1>Python Flask: WebDev Basics to Machine Learning Deployment</h1>
     
     <h2>Course Overview</h2>
     <p>
@@ -17,7 +18,7 @@
     <p>
         <strong>Md Azizul Hakim</strong><br>
         Lecturer, Daffodil International University<br>
-        Python Instructor at <a href="https://aiquest.org/">aiQuest Intelligence</a>
+        Python Instructor at <a href="https://aiquest.org/" target="_blank">aiQuest Intelligence</a>
     </p>
 
     <h2>Prerequisites</h2>
@@ -36,7 +37,7 @@
 
     <h2>Course Partnership</h2>
     <p>
-        This course is a joint initiative by <a href="https://aiquest.org/">aiQuest Intelligence</a> and Study Mart.
+        This course is a joint initiative by <a href="https://aiquest.org/" target="_blank">aiQuest Intelligence</a> and Study Mart.
     </p>
 
     <h2>Course Content</h2>
@@ -106,6 +107,5 @@
         <li>Portfolio Website Creation</li>
         <li>Scalable Flask App with MongoDB</li>
     </ul>
-
 </body>
 </html>
