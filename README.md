@@ -1,8 +1,8 @@
-<h1>Python Flask: Web Development Basics to Machine Learning Deployment</h1>
+<h1>Flask: Web Development Basics to Machine Learning/AI Deployment</h1>
 
 <h2>Course Overview</h2>
 <p>
-    Welcome to <strong>Complete Flask with ML Integration</strong>! This comprehensive course is designed to take you from the basics of web development with Flask to the advanced integration and deployment of machine learning models. Whether a beginner or an experienced developer, this course provides practical, hands-on experience with real-world projects to enhance your web development and machine learning skills.
+    Welcome to <strong>Complete Python Flask with Machine Learning Integration</strong>! This comprehensive course is designed to take you from the basics of web development with Flask to the advanced integration and deployment of machine learning models. Whether a beginner or an experienced developer, this course provides practical, hands-on experience with real-world projects to enhance your web development and machine learning skills.
 </p>
 
 <h2>Instructor</h2>
