@@ -30,7 +30,7 @@
 
 <h2>Course Partnership</h2>
 <p>
-    This course is a joint initiative by <a href="https://aiquest.org/" target="_blank">aiQuest Intelligence</a> and Study Mart.
+    This course is a joint initiative by <a href="https://aiquest.org/" target="_blank">aiQuest Intelligence</a> and <a href="https://youtube.com/studymart" target="_blank"> Study Mart.
 </p>
 
 <h2>Course Content</h2>
