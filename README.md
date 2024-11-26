@@ -13,7 +13,7 @@
     Connect on <a href="https://www.linkedin.com/in/azizul-hakim104/" target="_blank">LinkedIn</a>
 </p>
 
-<h2><a href="https://www.youtube.com/playlist?list=PLKdU0fuY4OFdPhZ4k_hu7Rv3sjyi3IPtu" target="_blank">Full Playlist</a></h2>
+<h2><a href="https://www.youtube.com/playlist?list=PLKdU0fuY4OFdPhZ4k_hu7Rv3sjyi3IPtu" target="_blank">Watch Full Playlist on YouTube</a></h2>
 
 <h2>Prerequisites</h2>
 <ul>
