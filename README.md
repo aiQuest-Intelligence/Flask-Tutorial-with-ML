@@ -9,7 +9,7 @@
 <p>
     <strong>Md Azizul Hakim</strong> <br>
     Lecturer, Daffodil International University<br>
-    Python Instructor at <a href="https://aiquest.org/" target="_blank">aiQuest Intelligence</a><br>
+    Python Instructor at <a href="https://aiquest.org/courses/become-a-python-developer/" target="_blank">aiQuest Intelligence</a><br>
     Connect on <a href="https://www.linkedin.com/in/azizul-hakim104/" target="_blank">LinkedIn</a>
 </p>
 
