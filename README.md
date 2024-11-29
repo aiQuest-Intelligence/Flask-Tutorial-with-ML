@@ -17,8 +17,8 @@
 
 <h2>Prerequisites</h2>
 <ul>
-    <li>Basic knowledge of Python programming.</li>
-    <li>Interest in web development and machine learning.</li>
+    <li>Basic knowledge of <a href="https://www.youtube.com/playlist?list=PLKdU0fuY4OFf7qj4eoBtvALAB_Ml2rN0V" target="_blank">Python programming.</a><br></li>
+    <li>Interest in web development and <a href="https://www.youtube.com/playlist?list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f" target="_blank">machine learning.</li>
 </ul>
 
 <h2>Tools and Technologies</h2>
